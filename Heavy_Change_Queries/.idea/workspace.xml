@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="StreamClassifier" targetName="demo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d76405b-675d-4c58-b80b-eb7098a893aa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="StreamClassifier" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="1015" column="27" selection-start-line="1015" selection-start-column="27" selection-end-line="1015" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HG_for_XY_without_auxiliary.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2033">
+              <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+              <folding>
+                <element signature="e#151#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Heavy_guardian_list.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1520">
+              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HG(heavy_light).h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abo</find>
+      <find>packet_num</find>
+      <find>num_flow</find>
+      <find>1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CountHeap.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/data_analysis.cpp" />
+        <option value="$PROJECT_DIR$/src/data_analysis.cpp" />
+        <option value="$PROJECT_DIR$/src/demo_featureNumber.cpp" />
+        <option value="$PROJECT_DIR$/src/BiasSketch.h" />
+        <option value="$PROJECT_DIR$/src/Bias_C_Sketch.h" />
+        <option value="$PROJECT_DIR$/bin/1024_memory_error.dat" />
+        <option value="$PROJECT_DIR$/src/Csketch.h" />
+        <option value="$PROJECT_DIR$/src/CUSketch.h" />
+        <option value="$PROJECT_DIR$/src/ASketch.h" />
+        <option value="$PROJECT_DIR$/src/CMSketch.h" />
+        <option value="$PROJECT_DIR$/src/Pb_Comb_Sketch.h" />
+        <option value="$PROJECT_DIR$/src/Pb_tree.h" />
+        <option value="$PROJECT_DIR$/src/Histogram.h" />
+        <option value="$PROJECT_DIR$/src/SC.h" />
+        <option value="$PROJECT_DIR$/src/PbSketch.h" />
+        <option value="$PROJECT_DIR$/src/Pb_mod.h" />
+        <option value="$PROJECT_DIR$/src/Space_allocation.h" />
+        <option value="$PROJECT_DIR$/src/Split.h" />
+        <option value="$PROJECT_DIR$/src/PbSketch_Space.h" />
+        <option value="$PROJECT_DIR$/src/CU_For_SC.h" />
+        <option value="$PROJECT_DIR$/src/SC_CUSketch.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/Heavy_guardian_top.h" />
+        <option value="$PROJECT_DIR$/src/XY_FlowRadar.h" />
+        <option value="$PROJECT_DIR$/src/FlowRadar_without_packetcount.h" />
+        <option value="$PROJECT_DIR$/src/Heavy_guardian_flowradar.h" />
+        <option value="$PROJECT_DIR$/src/InsertableIblt.h" />
+        <option value="$PROJECT_DIR$/src/SC_InsertableIBLT.h" />
+        <option value="$PROJECT_DIR$/src/Pbsketch_distr_space.h" />
+        <option value="$PROJECT_DIR$/src/HG_XY_heavy.h" />
+        <option value="$PROJECT_DIR$/src/Heavy_guardian_list.h" />
+        <option value="$PROJECT_DIR$/bin/kos_window_heavy.dat" />
+        <option value="$PROJECT_DIR$/bin/modify_kos_subdata_8.dat" />
+        <option value="$PROJECT_DIR$/src/HG_for_XY.h" />
+        <option value="$PROJECT_DIR$/src/HG_for_XY_without_auxiliary.h" />
+        <option value="$PROJECT_DIR$/src/HG(heavy_light).h" />
+        <option value="$PROJECT_DIR$/bin/modify_xy_without.dat" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="138" />
+    <option name="y" value="78" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StreamClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heavy_Change_Queries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heavy_Change_Queries" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Top_k_Queries" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StreamClassifier" TARGET_NAME="demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StreamClassifier" RUN_TARGET_NAME="demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d76405b-675d-4c58-b80b-eb7098a893aa" name="Default Changelist" comment="" />
+      <created>1552896901530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552896901530</updated>
+      <workItem from="1552896903157" duration="15338000" />
+      <workItem from="1552964518865" duration="26847000" />
+      <workItem from="1557302666478" duration="803000" />
+      <workItem from="1557304342340" duration="27776000" />
+      <workItem from="1557387052368" duration="1500000" />
+      <workItem from="1557391916830" duration="27839000" />
+      <workItem from="1557474933873" duration="2301000" />
+      <workItem from="1557535251480" duration="17973000" />
+      <workItem from="1557583795424" duration="596000" />
+      <workItem from="1557584404017" duration="442000" />
+      <workItem from="1557622668515" duration="9878000" />
+      <workItem from="1557656627920" duration="8275000" />
+      <workItem from="1557665336989" duration="450000" />
+      <workItem from="1557707558175" duration="3838000" />
+      <workItem from="1557712569895" duration="2365000" />
+      <workItem from="1557715268229" duration="3248000" />
+      <workItem from="1557718530094" duration="5400000" />
+      <workItem from="1557742956914" duration="2825000" />
+      <workItem from="1557796963100" duration="5881000" />
+      <workItem from="1557802865424" duration="3312000" />
+      <workItem from="1557822147810" duration="1853000" />
+      <workItem from="1557884569494" duration="9306000" />
+      <workItem from="1557908982711" duration="11957000" />
+      <workItem from="1557967494242" duration="21217000" />
+      <workItem from="1558054718673" duration="21696000" />
+      <workItem from="1558139552500" duration="1570000" />
+      <workItem from="1558141473288" duration="18051000" />
+      <workItem from="1558234352533" duration="2792000" />
+      <workItem from="1558314739190" duration="14199000" />
+      <workItem from="1558403262736" duration="1100000" />
+      <workItem from="1558406589944" duration="9758000" />
+      <workItem from="1558421833739" duration="7299000" />
+      <workItem from="1558445014780" duration="2847000" />
+      <workItem from="1558485520147" duration="8078000" />
+      <workItem from="1558500958892" duration="2997000" />
+      <workItem from="1558516737251" duration="31970000" />
+      <workItem from="1558614132645" duration="3187000" />
+      <workItem from="1558666124304" duration="1374000" />
+      <workItem from="1558691756981" duration="2719000" />
+      <workItem from="1558697442255" duration="45000" />
+      <workItem from="1561862927810" duration="62000" />
+      <workItem from="1561869092056" duration="1215000" />
+      <workItem from="1561882081808" duration="624000" />
+      <workItem from="1561884467270" duration="1670000" />
+      <workItem from="1562138685333" duration="634000" />
+      <workItem from="1562139371302" duration="22024000" />
+      <workItem from="1562317189404" duration="27158000" />
+      <workItem from="1562547940535" duration="15606000" />
+      <workItem from="1564855102818" duration="1701000" />
+      <workItem from="1564922488523" duration="5516000" />
+      <workItem from="1564904724900" duration="2036000" />
+      <workItem from="1564907494133" duration="10367000" />
+      <workItem from="1565228394089" duration="67531000" />
+      <workItem from="1565747277740" duration="13008000" />
+      <workItem from="1565774089349" duration="34408000" />
+      <workItem from="1566032540387" duration="2592000" />
+      <workItem from="1566186037090" duration="18705000" />
+      <workItem from="1566542994701" duration="17621000" />
+      <workItem from="1566723250346" duration="10815000" />
+      <workItem from="1566743180939" duration="4226000" />
+      <workItem from="1566790131241" duration="33638000" />
+      <workItem from="1568167037785" duration="7350000" />
+      <workItem from="1570676281752" duration="23000" />
+      <workItem from="1570676348976" duration="16651000" />
+      <workItem from="1571108360378" duration="212000" />
+      <workItem from="1571552808075" duration="15706000" />
+      <workItem from="1571657256154" duration="2012000" />
+      <workItem from="1571758143360" duration="1205000" />
+      <workItem from="1571905570735" duration="948000" />
+      <workItem from="1571985553257" duration="17742000" />
+      <workItem from="1573302206828" duration="16362000" />
+      <workItem from="1573870995302" duration="593000" />
+      <workItem from="1606632876291" duration="718000" />
+      <workItem from="1609094252037" duration="1335000" />
+      <workItem from="1619074665186" duration="9388000" />
+      <workItem from="1619143371634" duration="1187000" />
+      <workItem from="1619315403783" duration="21327000" />
+      <workItem from="1619355578341" duration="2001000" />
+      <workItem from="1619401452254" duration="3988000" />
+      <workItem from="1619665939198" duration="4121000" />
+      <workItem from="1619746876183" duration="5008000" />
+      <workItem from="1620286417503" duration="4989000" />
+      <workItem from="1620352975298" duration="195000" />
+      <workItem from="1620440392129" duration="12486000" />
+      <workItem from="1620612234390" duration="10193000" />
+      <workItem from="1620696549595" duration="7276000" />
+      <workItem from="1620722594763" duration="2714000" />
+      <workItem from="1620784024662" duration="10432000" />
+      <workItem from="1621216090035" duration="1261000" />
+      <workItem from="1621475339032" duration="5032000" />
+      <workItem from="1621492391023" duration="6537000" />
+      <workItem from="1621821077052" duration="18598000" />
+      <workItem from="1621906958773" duration="16636000" />
+      <workItem from="1621994175282" duration="9818000" />
+      <workItem from="1622079904695" duration="10560000" />
+      <workItem from="1622166458584" duration="12634000" />
+      <workItem from="1622290181333" duration="3004000" />
+      <workItem from="1622346636494" duration="7022000" />
+      <workItem from="1623721599100" duration="43029000" />
+      <workItem from="1623897521670" duration="6299000" />
+      <workItem from="1625600206716" duration="137000" />
+      <workItem from="1626658609629" duration="10383000" />
+      <workItem from="1626740137260" duration="16498000" />
+      <workItem from="1626827114024" duration="2351000" />
+      <workItem from="1628729768944" duration="9551000" />
+      <workItem from="1629162440302" duration="11686000" />
+      <workItem from="1629247055215" duration="16152000" />
+      <workItem from="1629334354155" duration="4864000" />
+      <workItem from="1630030104241" duration="716000" />
+      <workItem from="1645259792844" duration="2074000" />
+      <workItem from="1645262263480" duration="595000" />
+      <workItem from="1645262882308" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1023687000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48303393" visible="true" weight="0.21548285" />
+      <window_info id="Structure" order="1" sideWeight="0.5181598" side_tool="true" weight="0.13088587" />
+      <window_info id="Favorites" order="2" sideWeight="0.51696604" side_tool="true" weight="0.13088587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39285713" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.25324675" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2792208" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3409091" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.17857143" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039905" side_tool="true" weight="0.31006494" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.5827922" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4025974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32960895" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="num" language="ObjectiveC" />
+        <watch expression="pbcount" language="ObjectiveC" />
+        <watch expression="pbcount[0].size()" language="ObjectiveC" />
+        <watch expression="this-&gt;bin_rand" language="ObjectiveC" />
+        <watch expression="unit+j" language="ObjectiveC" />
+        <watch expression="gt_diff[4000]" language="ObjectiveC" />
+        <watch expression="gt_diff" language="ObjectiveC" />
+        <watch expression="gt_diff[5]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>gt_diff[5]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gt_diff</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gt_diff[4000]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>unit+j</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this-&gt;bin_rand</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bin_rand</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pbcount[0].size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pbcount</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_point_time.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_point_time.dat" />
+    <entry file="file://$PROJECT_DIR$/src/BOBHash32.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceSavingUtils.h" />
+    <entry file="file://$PROJECT_DIR$/data/sample.dat" />
+    <entry file="file://$PROJECT_DIR$/src/SC_SpaceSaving.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#85#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SPA.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ASketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3554">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SC_CUSketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#49#70#0" expanded="true" />
+            <element signature="e#211#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMSketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XY_FlowRadar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="87" column="36" selection-start-line="87" selection-start-column="36" selection-end-line="87" selection-end-column="36" />
+          <folding>
+            <element signature="e#121#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/unordered_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pbsketch_distr_space.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_heavychanges_error.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_heavychanges_error.dat" />
+    <entry file="file://$PROJECT_DIR$/src/SC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_test_heavy_error.dat" />
+    <entry file="file://$PROJECT_DIR$/src/FlowRadar_without_packetcount.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="105" column="23" lean-forward="true" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+          <folding>
+            <element signature="e#155#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HG_XY_heavy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="103" selection-end-column="9" />
+          <folding>
+            <element signature="e#118#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertableIblt.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+            <element signature="e#452#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heavy_guardian_flowradar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_heavy_space_thre.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/new_kos_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/new_web_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/time_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/cftest_kos_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/cftest_web_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_heavy_space_thre.dat" />
+    <entry file="file://$PROJECT_DIR$/src/Heavy_guardian_top.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/web_window_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/modify_web_subdata_8.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/modify_web_space.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/mod_test_cf_web.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/mod_test_cf_kos.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/modify_kos_subdata_8.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_window_heavy.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/modify_kos_space.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/modify_test_window_kos.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/test_web.dat" />
+    <entry file="file://$PROJECT_DIR$/src/HG_for_XY.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="e#115#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SC_InsertableIBLT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CUSketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/modify_xy_without.dat" />
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="1015" column="27" selection-start-line="1015" selection-start-column="27" selection-end-line="1015" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#27122#34148#0" />
+            <element signature="e#40316#45711#0" />
+            <element signature="e#45714#49719#0" />
+            <element signature="e#49721#53668#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HG_for_XY_without_auxiliary.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+          <folding>
+            <element signature="e#151#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heavy_guardian_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HG(heavy_light).h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="StreamClassifier" targetName="demo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d76405b-675d-4c58-b80b-eb7098a893aa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="StreamClassifier" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="368" column="51" lean-forward="true" selection-start-line="368" selection-start-column="51" selection-end-line="368" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SC_CUSketch.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <element signature="e#49#70#0" expanded="true" />
+                <element signature="e#211#286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SC.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+              <folding>
+                <element signature="e#51#73#0" expanded="true" />
+                <element signature="e#217#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pbsketch_distr_space.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CountHeap.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/data_analysis.cpp" />
+        <option value="$PROJECT_DIR$/src/data_analysis.cpp" />
+        <option value="$PROJECT_DIR$/src/demo_featureNumber.cpp" />
+        <option value="$PROJECT_DIR$/src/BiasSketch.h" />
+        <option value="$PROJECT_DIR$/src/Bias_C_Sketch.h" />
+        <option value="$PROJECT_DIR$/bin/1024_memory_error.dat" />
+        <option value="$PROJECT_DIR$/src/Csketch.h" />
+        <option value="$PROJECT_DIR$/src/CUSketch.h" />
+        <option value="$PROJECT_DIR$/src/ASketch.h" />
+        <option value="$PROJECT_DIR$/src/CMSketch.h" />
+        <option value="$PROJECT_DIR$/src/Pb_Comb_Sketch.h" />
+        <option value="$PROJECT_DIR$/src/Pb_tree.h" />
+        <option value="$PROJECT_DIR$/src/Histogram.h" />
+        <option value="$PROJECT_DIR$/src/SC.h" />
+        <option value="$PROJECT_DIR$/src/PbSketch.h" />
+        <option value="$PROJECT_DIR$/src/Pb_mod.h" />
+        <option value="$PROJECT_DIR$/src/Space_allocation.h" />
+        <option value="$PROJECT_DIR$/src/Split.h" />
+        <option value="$PROJECT_DIR$/src/PbSketch_Space.h" />
+        <option value="$PROJECT_DIR$/src/CU_For_SC.h" />
+        <option value="$PROJECT_DIR$/src/SC_CUSketch.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/Pbsketch_distr_space.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="138" />
+    <option name="y" value="78" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StreamClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Point_Queries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Point_Queries" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Heavy_Change_Queries" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StreamClassifier" TARGET_NAME="demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StreamClassifier" RUN_TARGET_NAME="demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d76405b-675d-4c58-b80b-eb7098a893aa" name="Default Changelist" comment="" />
+      <created>1552896901530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552896901530</updated>
+      <workItem from="1552896903157" duration="15338000" />
+      <workItem from="1552964518865" duration="26847000" />
+      <workItem from="1557302666478" duration="803000" />
+      <workItem from="1557304342340" duration="27776000" />
+      <workItem from="1557387052368" duration="1500000" />
+      <workItem from="1557391916830" duration="27839000" />
+      <workItem from="1557474933873" duration="2301000" />
+      <workItem from="1557535251480" duration="17973000" />
+      <workItem from="1557583795424" duration="596000" />
+      <workItem from="1557584404017" duration="442000" />
+      <workItem from="1557622668515" duration="9878000" />
+      <workItem from="1557656627920" duration="8275000" />
+      <workItem from="1557665336989" duration="450000" />
+      <workItem from="1557707558175" duration="3838000" />
+      <workItem from="1557712569895" duration="2365000" />
+      <workItem from="1557715268229" duration="3248000" />
+      <workItem from="1557718530094" duration="5400000" />
+      <workItem from="1557742956914" duration="2825000" />
+      <workItem from="1557796963100" duration="5881000" />
+      <workItem from="1557802865424" duration="3312000" />
+      <workItem from="1557822147810" duration="1853000" />
+      <workItem from="1557884569494" duration="9306000" />
+      <workItem from="1557908982711" duration="11957000" />
+      <workItem from="1557967494242" duration="21217000" />
+      <workItem from="1558054718673" duration="21696000" />
+      <workItem from="1558139552500" duration="1570000" />
+      <workItem from="1558141473288" duration="18051000" />
+      <workItem from="1558234352533" duration="2792000" />
+      <workItem from="1558314739190" duration="14199000" />
+      <workItem from="1558403262736" duration="1100000" />
+      <workItem from="1558406589944" duration="9758000" />
+      <workItem from="1558421833739" duration="7299000" />
+      <workItem from="1558445014780" duration="2847000" />
+      <workItem from="1558485520147" duration="8078000" />
+      <workItem from="1558500958892" duration="2997000" />
+      <workItem from="1558516737251" duration="31970000" />
+      <workItem from="1558614132645" duration="3187000" />
+      <workItem from="1558666124304" duration="1374000" />
+      <workItem from="1558691756981" duration="2719000" />
+      <workItem from="1558697442255" duration="45000" />
+      <workItem from="1561862927810" duration="62000" />
+      <workItem from="1561869092056" duration="1215000" />
+      <workItem from="1561882081808" duration="624000" />
+      <workItem from="1561884467270" duration="1670000" />
+      <workItem from="1562138685333" duration="634000" />
+      <workItem from="1562139371302" duration="22024000" />
+      <workItem from="1562317189404" duration="27158000" />
+      <workItem from="1562547940535" duration="15606000" />
+      <workItem from="1564855102818" duration="1701000" />
+      <workItem from="1564922488523" duration="5516000" />
+      <workItem from="1564904724900" duration="2036000" />
+      <workItem from="1564907494133" duration="10367000" />
+      <workItem from="1565228394089" duration="67531000" />
+      <workItem from="1565747277740" duration="13008000" />
+      <workItem from="1565774089349" duration="34408000" />
+      <workItem from="1566032540387" duration="2592000" />
+      <workItem from="1566186037090" duration="18705000" />
+      <workItem from="1566542994701" duration="17621000" />
+      <workItem from="1566723250346" duration="10815000" />
+      <workItem from="1566743180939" duration="4226000" />
+      <workItem from="1566790131241" duration="33638000" />
+      <workItem from="1568167037785" duration="7350000" />
+      <workItem from="1570676281752" duration="23000" />
+      <workItem from="1570676348976" duration="16651000" />
+      <workItem from="1571108360378" duration="212000" />
+      <workItem from="1571552808075" duration="15706000" />
+      <workItem from="1571657256154" duration="2012000" />
+      <workItem from="1571758143360" duration="1205000" />
+      <workItem from="1571905570735" duration="948000" />
+      <workItem from="1571985553257" duration="17742000" />
+      <workItem from="1573302206828" duration="16362000" />
+      <workItem from="1573870995302" duration="593000" />
+      <workItem from="1606632876291" duration="718000" />
+      <workItem from="1609094252037" duration="1335000" />
+      <workItem from="1620787184157" duration="754000" />
+      <workItem from="1635384900887" duration="573000" />
+      <workItem from="1645258250241" duration="688000" />
+      <workItem from="1645261919659" duration="115000" />
+      <workItem from="1645262859472" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="715068000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48538962" visible="true" weight="0.14205906" />
+      <window_info id="Structure" order="1" sideWeight="0.5157385" side_tool="true" weight="0.10215483" />
+      <window_info id="Favorites" order="2" sideWeight="0.5146104" side_tool="true" weight="0.10215483" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39285713" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.26948053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44642857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18668832" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039905" side_tool="true" weight="0.31006494" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.5827922" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.1737013" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32960895" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48538962" visible="true" weight="0.118914604" />
+      <window_info id="Structure" order="1" sideWeight="0.5157385" side_tool="true" weight="0.10215483" />
+      <window_info id="Favorites" order="2" sideWeight="0.5146104" side_tool="true" weight="0.10215483" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39285713" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" visible="true" weight="0.20454545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44642857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18668832" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039905" side_tool="true" weight="0.31006494" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.5827922" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.45616883" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32960895" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="num" language="ObjectiveC" />
+        <watch expression="pbcount" language="ObjectiveC" />
+        <watch expression="pbcount[0].size()" language="ObjectiveC" />
+        <watch expression="this-&gt;bin_rand" language="ObjectiveC" />
+        <watch expression="unit+j" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>unit+j</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this-&gt;bin_rand</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bin_rand</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pbcount[0].size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pbcount</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/c++/7/cmath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="418" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kosarak_w_memory.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_mix.dat" />
+    <entry file="file://$PROJECT_DIR$/src/Pb_mod.h" />
+    <entry file="file:///usr/include/c++/7/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PbSketch.h" />
+    <entry file="file://$PROJECT_DIR$/src/Pb_tree.h" />
+    <entry file="file://$PROJECT_DIR$/src/CUSketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Split.h" />
+    <entry file="file://$PROJECT_DIR$/bin/Pb_sketch_space.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_Pb_sketch_space.dat" />
+    <entry file="file://$PROJECT_DIR$/src/SPA.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Csketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+          <folding>
+            <element signature="e#110#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceSaving.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="152" column="39" lean-forward="true" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SC_SpaceSaving.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#85#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/Pb_CM.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_ori_pb_cm.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_Pb_CM_find.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_Pb_CM_2560.dat" />
+    <entry file="file:///usr/include/c++/7/bits/stl_algo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="4855" column="4" selection-start-line="4855" selection-start-column="4" selection-end-line="4855" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pb_Comb_Sketch.h" />
+    <entry file="file://$PROJECT_DIR$/src/CMSketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Space_allocation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#128#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_pb_dis_7.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_pb_dis_8.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_pb_dis_7_giveup.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_pb_dis_8_giveup.dat" />
+    <entry file="file:///usr/include/c++/7/fstream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="696" column="6" selection-start-line="696" selection-start-column="6" selection-end-line="696" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_point_distr.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_point_distr_time.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/kos_time.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_point_distr_time.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_time.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_point_time_error.dat" />
+    <entry file="file://$PROJECT_DIR$/src/CU_For_SC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#114#133#0" expanded="true" />
+            <element signature="e#246#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PbSketch_Space.h" />
+    <entry file="file://$PROJECT_DIR$/src/Bias_C_Sketch.h" />
+    <entry file="file://$PROJECT_DIR$/src/ASketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Histogram.h" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/kos_point_time.dat" />
+    <entry file="file://$PROJECT_DIR$/bin/web_point_time.dat" />
+    <entry file="file://$PROJECT_DIR$/src/BOBHash32.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceSavingUtils.h" />
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="368" column="51" lean-forward="true" selection-start-line="368" selection-start-column="51" selection-end-line="368" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SC_CUSketch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#49#70#0" expanded="true" />
+            <element signature="e#211#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="e#51#73#0" expanded="true" />
+            <element signature="e#217#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pbsketch_distr_space.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
