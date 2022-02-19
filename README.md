@@ -1,8 +1,8 @@
-# Project_PBSketch
-The source codes of PB-sketch. PB-sketch can achieve point queries, top-k queries, and heavy change queries in the data streams.
+# Project_XYSketch
+The source codes of XY-sketch. XY-sketch can achieve point queries, top-k queries, and heavy change queries in the data streams.
 
 ## Introduction
-PB-Sketch is a state-of-the-art technology to approximate estimate the frequency of data items in streams. More, it can also support finding top-k hot items and detecting heavy changes. In particular, the estimated performance of PB-Sketch is excellent when the space budget is small.
+XY-Sketch is a state-of-the-art technology to approximate estimate the frequency of data items in streams. More, it can also support finding top-k hot items and detecting heavy changes. In particular, the estimated performance of XY-Sketch is excellent when the space budget is small.
 
 The above three files represent the three queries respectively. 
 
