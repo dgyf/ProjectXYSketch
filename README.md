@@ -15,6 +15,7 @@ CF uses SIMD instructions to achieve high speed, so the cpu must support SSE2 in
 This project is built upon cmake. You can use the following commands to build and run.
 
 After you enter a query file,
+
 mkdir build cd build cmake .. make cd .. cd bin ./demo
 
 ## Dataset
