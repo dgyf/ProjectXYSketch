@@ -22,3 +22,6 @@ mkdir build cd build cmake .. make cd .. cd bin ./demo
 You can download the datasets "kosarak.dat" and "WebDocs.dat" at the following URL.
 
 http://fimi.uantwerpen.be/data/
+
+## Supplement
+We have updated some new baselines, such as BurstSketch(BS), HeavyKeeper(HK) and WavingSketch(WS). Please refer to the original literatures if you are interested, and their code is also open source.
