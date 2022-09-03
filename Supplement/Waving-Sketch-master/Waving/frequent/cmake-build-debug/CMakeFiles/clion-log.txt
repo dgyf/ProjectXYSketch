@@ -1,0 +1,16 @@
+/home/yqliu/下载/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yqliu/Project_Clion/Waving-Sketch-master/Waving/frequent
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    WavingSHC.h
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:7 (add_executable):
+  No SOURCES given to target: bench
+
+
+-- Build files have been written to: /home/yqliu/Project_Clion/Waving-Sketch-master/Waving/frequent/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/yqliu/Project_Clion/Waving-Sketch-master/Waving/app/heavy-change/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yqliu/Project_Clion/Waving-Sketch-master/Waving/app/heavy-change/cmake-build-debug/CMakeFiles/bench.dir
+/home/yqliu/Project_Clion/Waving-Sketch-master/Waving/app/heavy-change/cmake-build-debug/CMakeFiles/edit_cache.dir
